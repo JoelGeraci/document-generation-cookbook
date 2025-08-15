@@ -1,0 +1,128 @@
+{
+    "dogs": [
+        "Golden Retriever",
+        "German Shepherd",
+        "Labrador Retriever",
+        "Bulldog",
+        "Poodle",
+        "Beagle",
+        "Rottweiler",
+        "Dachshund",
+        "Yorkshire Terrier",
+        "Boxer"
+    ],
+    "pets": [
+        {
+            "type": "bird",
+            "name": "Amazon Parrot"
+        },
+        {
+            "type": "dog",
+            "name": "Chihuahua"
+        },
+        {
+            "type": "cat",
+            "name": "Scottish Fold"
+        },
+        {
+            "type": "bird",
+            "name": "Conure"
+        },
+        {
+            "type": "dog",
+            "name": "Boxer"
+        },
+        {
+            "type": "cat",
+            "name": "Norwegian Forest Cat"
+        },
+        {
+            "type": "bird",
+            "name": "Parakeet"
+        },
+        {
+            "type": "dog",
+            "name": "Yorkshire Terrier"
+        },
+        {
+            "type": "cat",
+            "name": "Sphynx"
+        },
+        {
+            "type": "bird",
+            "name": "Finch"
+        },
+        {
+            "type": "dog",
+            "name": "Dachshund"
+        },
+        {
+            "type": "cat",
+            "name": "Russian Blue"
+        },
+        {
+            "type": "bird",
+            "name": "Budgerigar"
+        },
+        {
+            "type": "dog",
+            "name": "German Shepherd"
+        },
+        {
+            "type": "cat",
+            "name": "Abyssinian"
+        },
+        {
+            "type": "bird",
+            "name": "Cockatoo"
+        },
+        {
+            "type": "dog",
+            "name": "Poodle"
+        },
+        {
+            "type": "cat",
+            "name": "British Shorthair"
+        },
+        {
+            "type": "bird",
+            "name": "Canary"
+        },
+        {
+            "type": "dog",
+            "name": "Rottweiler"
+        },
+        {
+            "type": "cat",
+            "name": "Siamese"
+        },
+        {
+            "type": "bird",
+            "name": "Lovebird"
+        },
+        {
+            "type": "dog",
+            "name": "Golden Retriever"
+        },
+        {
+            "type": "cat",
+            "name": "Bengal"
+        },
+        {
+            "type": "bird",
+            "name": "African Grey Parrot"
+        },
+        {
+            "type": "dog",
+            "name": "Beagle"
+        },
+        {
+            "type": "cat",
+            "name": "Persian"
+        },
+        {
+            "type": "bird",
+            "name": "Macaw"
+        }
+    ]
+}
