@@ -1,0 +1,114 @@
+{
+    "products": [
+        {
+            "productName": "Vintage Pocket Watch",
+            "productId": 123456,
+            "sku": "0406654608",
+            "description": {
+                "color": "Purple",
+                "longDescription": "A beautifully crafted vintage pocket watch with intricate brass detailing and a classic chain. Features a smooth ticking mechanism and elegant purple enamel finish. Perfect for collectors and those who appreciate timeless accessories."
+            },
+            "price": 34.45,
+            "quantity": 2
+        },
+        {
+            "productName": "Leather Satchel",
+            "productId": 234567,
+            "sku": "0406634348",
+            "description": {
+                "color": "Orange",
+                "longDescription": "Handcrafted leather satchel with rich orange-brown coloring and brass hardware. Features multiple compartments for organization and a comfortable shoulder strap. Made from premium full-grain leather that develops a beautiful patina over time."
+            },
+            "price": 21.67,
+            "quantity": 1
+        },
+        {
+            "productName": "Pocket Watch Chain",
+            "productId": 345679,
+            "sku": "0406654611",
+            "description": {
+                "color": "Orange",
+                "longDescription": "Antique-style pocket watch chain with intricate links and a decorative fob. Features a secure clasp and comes with a presentation box. Perfect complement to any pocket watch or as a standalone accessory."
+            },
+            "price": 45.25,
+            "quantity": 1
+        },
+        {
+            "productName": "Leather Gloves",
+            "productId": 456780,
+            "sku": "0406654612",
+            "description": {
+                "color": "Black",
+                "longDescription": "Classic leather driving gloves with suede palm and reinforced stitching. Features a comfortable fit and comes in a leather storage pouch. Ideal for driving, outdoor activities, or as a stylish accessory."
+            },
+            "price": 38.90,
+            "quantity": 2
+        },
+        {
+            "productName": "Brass Key",
+            "productId": 567891,
+            "sku": "0406654613",
+            "description": {
+                "color": "Orange",
+                "longDescription": "Vintage-style brass key with ornate handle and detailed engravings. Features a functional design and comes with a leather key fob. Perfect for collectors or as a decorative piece."
+            },
+            "price": 28.75,
+            "quantity": 1
+        },
+        {
+            "productName": "Silk Handkerchief",
+            "productId": 678902,
+            "sku": "0406654614",
+            "description": {
+                "color": "White",
+                "longDescription": "Luxurious silk handkerchief with hand-rolled edges and subtle embroidery. Features a soft, lightweight fabric and comes in a decorative box. Perfect for formal occasions or as a thoughtful gift."
+            },
+            "price": 32.50,
+            "quantity": 3
+        },
+        {
+            "productName": "Wooden Box",
+            "productId": 789013,
+            "sku": "0406654615",
+            "description": {
+                "color": "Brown",
+                "longDescription": "Handcrafted wooden box with brass hinges and felt-lined interior. Features a secure latch and smooth finish. Perfect for storing jewelry, watches, or other precious items."
+            },
+            "price": 85.00,
+            "quantity": 1
+        },
+        {
+            "productName": "Crystal Paperweight",
+            "productId": 890124,
+            "sku": "0406654616",
+            "description": {
+                "color": "Purple",
+                "longDescription": "Cut crystal paperweight with geometric facets and a solid base. Features a beautiful purple hue and comes with a velvet display stand. Perfect for desk decoration or as a collector's item."
+            },
+            "price": 112.30,
+            "quantity": 1
+        },
+        {
+            "productName": "Leather Belt",
+            "productId": 901235,
+            "sku": "0406654617",
+            "description": {
+                "color": "Brown",
+                "longDescription": "Handcrafted leather belt with brass buckle and reinforced stitching. Features a classic design and comes in a leather storage pouch. Made from premium full-grain leather for durability and style."
+            },
+            "price": 55.75,
+            "quantity": 2
+        },
+        {
+            "productName": "Brass Compass",
+            "productId": 112346,
+            "sku": "0406654618",
+            "description": {
+                "color": "Orange",
+                "longDescription": "Vintage brass compass with detailed engravings and a protective case. Features a smooth rotating dial and comes with a leather carrying strap. Perfect for navigation or as a decorative piece."
+            },
+            "price": 73.40,
+            "quantity": 1
+        }
+    ]
+}
