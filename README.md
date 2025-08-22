@@ -16,6 +16,6 @@ A document template is basically a ready-made file that’s set up with special 
 
 The template tags are the markers that show where the dynamic content should go in your document. The tags can reference the JSON values directly or use [JSONata](https://docs.jsonata.org/overview.html) expressions to manipulate the data before merging. See the [documentation](https://developer.adobe.com/document-services/docs/overview/document-generation-api/templatetags/) to read more about template tags.
 
-Document Generation API itself is very easy to use but to produce the desired layout, you need to know a lot about Microsoft Word, JSON, and JSONata.
+Document Generation API itself is very easy to use but to produce the desired layout, you need to know a lot about Microsoft Word, JSON, and JSONata. Use the [JSONata Exerciser](https://try.jsonata.org/) to get the JSONata expressions correct before adding them to your tag. You can paste your own JSON in the left panel and then use the upper right panel to test your expression and see the result in real time below it. 
 
 I'll be adding new  recipes as time permits. Feel free to make requests and I'll do my best to add a  recipe to meet your needs.
